@@ -1,0 +1,62 @@
+[
+	{
+		"id": 5,
+		"title": "Andes",
+		"description": "1 Litro",
+		"price": 600,
+		"thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/448/812/products/diseno-sin-titulo1-4c8000aa3f8c5b561616311354075883-640-0.png",
+		"code": 1400,
+		"stock": 1220,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Stella",
+		"description": "1 Litro",
+		"price": 800,
+		"thumbnail": "https://static.wixstatic.com/media/d2b1c5_62629d96d63a4ceaaf92481bb25ef628~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+		"code": 1500,
+		"stock": 1330,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Heineken",
+		"description": "1 Litro",
+		"price": 900,
+		"thumbnail": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/fotos/b/0000000000/3157_1.jpg",
+		"code": 1600,
+		"stock": 1340,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Corona",
+		"description": "1 Litro",
+		"price": 1000,
+		"thumbnail": "https://hiperlibertad.vteximg.com.br/arquivos/ids/155975-1000-1000/Cerveza-Corona-710Cc-CERVEZA-CORONA-DESC-X710ML-1-571.jpg?v=637236235973730000",
+		"code": 1700,
+		"stock": 1350,
+		"status": true
+	},
+	{
+		"id": 9,
+		"title": "Barba Roja",
+		"description": "500 ML",
+		"price": 1000,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_895191-MLA43299002966_082020-O.webp",
+		"code": 1800,
+		"stock": 1360,
+		"status": true
+	},
+	{
+		"id": 10,
+		"title": "BAUM !",
+		"description": "1 Litro",
+		"price": 1100,
+		"thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/246/405/products/sin-titulo-1-261-bac43b4800b99f77bd16136683219452-1024-1024.jpg",
+		"code": 1900,
+		"stock": 1370,
+		"status": true
+	}
+]
